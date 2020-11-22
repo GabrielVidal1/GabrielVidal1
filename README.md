@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<a href="https://www.linkedin.com/in/gabriel-vidal-ayrinhac-82a0b2184/">
+  <img align="left" alt="Gabriel's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://gabrielvidal.itch.io/">
+  <img align="left" alt="Gabriel's Itch Page" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/itch-dot-io.svg" />
+</a>
 
-<!--
-**GabrielVidal1/GabrielVidal1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Talking about Personal Stuffs:**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: he/him
+- 🔭 I’m currently working on <a href="https://github.com/France-ioi/AlgoreaFrontend">AlgoreaFrontend</a>
+- 🌱 I’m currently learning <a href="https://vuejs.org/">VueJs</a>
