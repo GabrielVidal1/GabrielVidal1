@@ -6,6 +6,8 @@
   <img align="left" alt="Gabriel's Itch Page" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/itch-dot-io.svg" />
 </a>
 
+<br/>
+
 **Talking about Personal Stuffs:**
 
 - 😄 Pronouns: he/him
