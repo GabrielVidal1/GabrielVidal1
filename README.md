@@ -8,6 +8,8 @@
 
 <br/>
 
+---
+
 **Talking about Personal Stuffs:**
 
 - 😄 Pronouns: he/him
