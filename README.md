@@ -13,5 +13,4 @@
 **Talking about Personal Stuffs:**
 
 - 😄 Pronouns: he/him
-- 🔭 I’m currently working on <a href="https://github.com/France-ioi/AlgoreaFrontend">AlgoreaFrontend</a>
 - 🌱 I’m currently learning <a href="https://vuejs.org/">VueJs</a>
