@@ -13,4 +13,4 @@
 **Talking about Personal Stuffs:**
 
 - 😄 Pronouns: he/him
-- 🌱 I’m currently learning <a href="https://vuejs.org/">VueJs</a>
+- 🌱 I’m currently learning <a href="https://reactjs.org/">ReactJs</a> and <a href="https://firebase.google.com/">Firebase</a>
